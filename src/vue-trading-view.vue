@@ -14,7 +14,9 @@ export default {
     };
   },
   props: {
-    options: Object
+    options: {
+      type: Object
+    }
   },
   methods: {
     canUseDOM() {
