@@ -1,5 +1,5 @@
 <template>
-  <div :id="container_id"></div>
+  <div :id="container_id" class="trading-view-wrapper"></div>
 </template>
 
 <script>
@@ -73,3 +73,8 @@ export default {
   },
 }
 </script>
+<style lang="scss" scoped>
+.trading-view-wrapper{
+    height: 100%;
+}
+</style>
