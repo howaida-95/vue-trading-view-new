@@ -12,7 +12,7 @@ or
 ## Usage
 ### Basic example
 ```javascript
-import VueTradingView from 'vue-trading-view';
+import VueTradingView from 'vue-trading-view-new';
 
 ...
 <template>
@@ -22,7 +22,7 @@ import VueTradingView from 'vue-trading-view';
 </template>
 
 <script>
-import VueTradingView from 'vue-trading-view';
+import VueTradingView from 'vue-trading-view-new';
 
 export default {
   name: 'HelloWorld',
