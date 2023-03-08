@@ -5,9 +5,9 @@
 VueJS component for rendering the [TradingView Advanced Real-Time Chart Widget](https://www.tradingview.com/widget/advanced-chart/).
 
 ## Install
-`yarn add vue-trading-view`
+`yarn add vue-trading-view-new`
 or
-`npm install --save vue-trading-view`
+`npm install --save vue-trading-view-new`
 
 ## Usage
 ### Basic example
