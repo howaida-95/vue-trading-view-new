@@ -14,7 +14,9 @@ var component = {render: function(){var _vm=this;var _h=_vm.$createElement;var _
     };
   },
   props: {
-    options: String
+    options: {
+	type: Object
+    }
   },
   methods: {
     canUseDOM: function canUseDOM() {
