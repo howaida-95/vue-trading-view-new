@@ -20,7 +20,9 @@
       };
     },
     props: {
-      options: Object
+      options: {
+        type: Object
+      }
     },
     methods: {
       canUseDOM: function canUseDOM() {
